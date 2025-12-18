@@ -1,0 +1,16 @@
+# Virtual environment
+lib/
+venv/
+.env
+
+# Database
+library.db
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE settings
+.vscode/
+.idea/
